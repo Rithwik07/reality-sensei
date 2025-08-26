@@ -1,5 +1,4 @@
-🤖 Reality Sensei: An Offline AI Accessibility Assistant
-![Typing SVG](https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com/%3Flines%3DSee the world,with a voice&font=Fira%20Code&center=true&size=30&color=2e617d&background=00000000)
+🤖 Reality Sensei: An Offline AI Accessibility Assistant with a voice
 
 ✨ Project Overview
 Reality Sensei is a self-contained, AI-powered accessibility assistant designed to help visually impaired individuals understand their surroundings. It uses computer vision and large language models, all running locally on a personal computer, to capture a scene, describe it, and answer follow-up questions in real-time. This project is a proof of concept for a truly private, offline AI solution.
