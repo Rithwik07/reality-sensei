@@ -1,0 +1,11 @@
+# Virtual environment folder
+venv/
+
+# PyTorch cache and temporary files
+__pycache__/
+
+# Hugging Face cache
+.cache/
+
+# Image file from webcam capture
+scene.jpg
